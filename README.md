@@ -1,5 +1,5 @@
 # Chat-With-Multiple-PDFs
-Here’s a professional `README.md` for your Streamlit app that enables users to chat with multiple PDFs using LangChain, OpenAI, and FAISS:
+ Streamlit app that enables users to chat with multiple PDFs using LangChain, OpenAI, and FAISS:
 
 ```markdown
 # PDF Conversational AI with LangChain
